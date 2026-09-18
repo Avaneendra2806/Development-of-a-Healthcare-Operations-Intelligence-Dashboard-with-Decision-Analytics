@@ -78,6 +78,60 @@ The app auto-detects these column names (no renaming needed):
 | Clinical | `Diagnosis`, `Severity_Level`, `Outcome` |
 | Readmission | `Readmission_Flag`, `Readmission_30_Days` |
 
+# 📊 Exploratory Data Analysis (EDA) — Medical Operations Dashboard
+
+## 🔍 Key Findings — Final EDA Summary Insights
+
+The dataset contains **100,000 patient records** and **28 features**, providing insights into hospital operations, patient demographics, treatment costs, healthcare resources, and patient outcomes.
+
+### 📌 Dataset Overview
+
+* **Total Records:** 100,000
+* **Total Features:** 28 columns
+* **Average Patient Age:** 50.48 years
+* **Age Range:** 1–100 years
+
+### 🏥 Patient & Department Insights
+
+* **Most Common Department:** Dermatology — 10,205 patients
+* **Most Common Diagnosis:** Heart Disease — 10,218 cases
+* **Most Frequent Severity Level:** Low — 40,094 patients
+* **Most Common Insurance Type:** Government Insurance — 25,075 patients
+
+### ⏱️ Hospital Operations Insights
+
+* **Average Length of Stay:** 5.36 days
+* **Average Wait Time:** 152.04 minutes
+* **Average Hospital Capacity:** 1,119.64 beds
+* **Unique Doctors:** 500
+* **Unique Hospitals:** 25
+* **Unique Nurses:** 300
+
+### 💰 Financial & Treatment Insights
+
+* **Average Treatment Cost:** USD 4,893.89
+* **Treatment Cost Range:** USD 100–49,999
+
+### 📈 Patient Outcomes & Readmissions
+
+* **Total Readmission Cases:** 7,477
+* **Readmission Rate:** 7.48%
+* **Most Common Patient Outcome:** Recovered — 68,568 patients
+
+### 🌍 Geographic & Hospital Insights
+
+* **Most Represented State:** Telangana — 16,501 patients
+* **Most Represented City:** Hyderabad — 16,501 patients
+* **Private Hospital Records:** 62,384
+* **Government Hospital Records:** 37,616
+
+---
+
+## 🎯 Overall EDA Insights
+
+The exploratory data analysis provides a comprehensive overview of healthcare operations, highlighting patient distribution across departments, hospital resource availability, treatment costs, waiting times, readmission trends, and patient outcomes.
+
+These findings serve as a foundation for developing interactive dashboards and generating data-driven insights to support healthcare operational decision-making.
 
 ---
 
