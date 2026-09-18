@@ -152,9 +152,14 @@ streamlit run app.py
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-Streamlit · Plotly Express · Pandas · NumPy · Python 3.x
+- **Programming Language:** Python
+- **Data Analysis:** Pandas, NumPy
+- **Data Visualization:** Matplotlib, Seaborn, Plotly
+- **Dashboard Development:** Streamlit
+- **Geographic Analysis:** Folium, GeoPandas
+- **Development Environment:** Jupyter Notebook, VS Code
 
 ---
 
