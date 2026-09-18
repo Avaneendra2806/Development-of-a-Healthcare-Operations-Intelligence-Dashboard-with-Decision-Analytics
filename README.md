@@ -111,6 +111,14 @@ The dataset contains **100,000 patient records** and **28 features**, providing 
 
 * **Average Treatment Cost:** USD 4,893.89
 * **Treatment Cost Range:** USD 100–49,999
+  
+### 🛏️ Bed Utilization Insights
+
+- **Total Beds:** 28,490
+- **Occupied Beds:** 805
+- **Available Beds:** 27,685
+- **Overall Occupancy Rate:** 2.83%
+- **Peak Date:** 15-Feb-2026
 
 ### 📈 Patient Outcomes & Readmissions
 
