@@ -78,7 +78,7 @@ The app auto-detects these column names (no renaming needed):
 | Clinical | `Diagnosis`, `Severity_Level`, `Outcome` |
 | Readmission | `Readmission_Flag`, `Readmission_30_Days` |
 
-# 📊 Exploratory Data Analysis (EDA) — Medical Operations Dashboard
+# 📊 Exploratory Data Analysis (EDA)
 
 ## 🔍 Key Findings — Final EDA Summary Insights
 
